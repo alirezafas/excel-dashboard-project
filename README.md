@@ -1,11 +1,3 @@
-**Creating README structure**
-
-The user asked me to write a README in English based on their project. I don't need to search for additional info, but I'll use the details from the project.
-
-I'll organize it into six sections: Project Overview, Dataset, Pivot Summaries, Key Findings, Dashboard Components, How to Reproduce, and Contact. I must follow formatting rules like using headings (#–#####) and bold labels. I'll aim for short paragraphs and add bullet lists or tables as needed, which should keep it concise and clear. 
-
-Time to write a concise README!
-### Project Overview
 A call-centre dashboard that aggregates and visualises 1000 call records to track operational performance across five representatives (R01–R05). The workbook contains raw call data, pivot summaries, regional breakdowns, and per-rep metrics used to build interactive charts and a performance dashboard.
 
 ### Data Description
